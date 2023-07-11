@@ -1,7 +1,7 @@
 # grid
 ![viewfinal](assets/img/1.jpg)
 
-- [Demo Project]( https://amin-banam.github.io/amazon/)
+- [Demo Project](https://amin-banam.github.io/grid/)
 
 - Developed by amin-banam
 
