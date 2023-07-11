@@ -1,5 +1,5 @@
 # grid
-![viewfinal](assets/img)
+![viewfinal](assets/img/1.png)
 
 - [Demo Project]( https://amin-banam.github.io/amazon/)
 
